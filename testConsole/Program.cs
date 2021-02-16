@@ -6,7 +6,7 @@ namespace testConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("testing jenkins pipeline .net core app aaa !");
+            Console.WriteLine("testing jenkins pipeline .net core app neka izmena !");
         }
     }
 }
